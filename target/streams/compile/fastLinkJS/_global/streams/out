@@ -1,0 +1,24 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\jdieh\Desktop\Java\Scala\scalajs-vite\target\scala-3.2.2\scalajsvite-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 30569 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 6151 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 45455 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 15917 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 47 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 8429 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 27367 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 12619 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 2282 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 18250 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 249 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 3179 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 1080 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 4707 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 9076 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 1178 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 332 -- invalidated: 4[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 1266 -- invalidated: 24[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 15423 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 19599 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total top-level trees: 5290; re-computed: 95[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total modules: 6; re-written: 4[0m

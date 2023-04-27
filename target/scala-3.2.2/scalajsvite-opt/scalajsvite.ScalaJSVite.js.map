@@ -1,0 +1,8 @@
+{
+"version": 3,
+"file": "scalajsvite.ScalaJSVite.js",
+"mappings": ";;;AAMA,SAAAA,wCAAA,CAAA,IAAA;;2FAAA,cAAA;WAAA,CAAA;;UAAA,KAAA,GAAA,CAAA;8FAAA,iDAAA,CAAA,KAAA;;YAAA,CAAA;;;C;AAAA,SAAAA,wCAAA,8C;",
+"sources": ["file:///C:/Users/jdieh/Desktop/Java/Scala/scalajs-vite/src/main/scala/scalajsvite/scalajsvite.scala"],
+"names": ["main"],
+"lineCount": 16
+}

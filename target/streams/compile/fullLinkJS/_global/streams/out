@@ -1,0 +1,25 @@
+[info] Full optimizing C:\Users\jdieh\Desktop\Java\Scala\scalajs-vite\target\scala-3.2.2\scalajsvite-opt
+[debug] Linker: Compute reachability: 174931 us
+[debug] Linker: Assemble LinkedClasses: 18860 us
+[debug] Linker: Check IR: 43337 us
+[debug] Linker: 265128 us
+[debug] Optimizer: Batch mode: true
+[debug] Optimizer: Incremental part: 93054 us
+[debug] Optimizer: Optimizing 618 methods.
+[debug] Optimizer: Optimizer part: 166395 us
+[debug] Optimizer: 263770 us
+[debug] Refiner: Compute reachability: 15718 us
+[debug] Refiner: Assemble LinkedClasses: 1576 us
+[debug] Refiner: 20554 us
+[debug] Module Splitter: Calculate Dependency Info: 1642 us
+[debug] Module Splitter: Analyze Modules: 24508 us
+[debug] Module Splitter: Assemble Modules: 4801 us
+[debug] Module Splitter: 32575 us
+[debug] Emitter: Generate Classes: 118449 us
+[debug] Emitter: Write trees: 32303 us
+[debug] Emitter: Class tree cache stats: reused: 0 -- invalidated: 33
+[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 110
+[debug] Emitter: 167297 us
+[debug] BasicBackend: Write result: 103096 us
+[debug] BasicBackend: total top-level trees: 526; re-computed: 526
+[debug] BasicBackend: total modules: 4; re-written: 4
